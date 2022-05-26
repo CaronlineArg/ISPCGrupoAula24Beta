@@ -10,4 +10,10 @@ Las ceremonias de Scrum (a veces también llamadas “eventos Scrum”) son, por
 
 # Que son los Artefactos?
 
+# Que esel Product Backlog?
+
+# Que es Sprint Backlog?
+
+# Que es el Incremento?
+
 # Que son los Roles?
