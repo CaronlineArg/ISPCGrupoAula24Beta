@@ -17,7 +17,7 @@ El propietario del producto (Product Owner) se asegura de que los asistentes est
 discutir los elementos de trabajo pendiente de producto más importantes y cómo se asignan al objetivo 
 del producto. El equipo de Scrum también puede invitar a otras personas a asistir a la planificación del
 Sprint para proporcionar asesoramiento.
-- Consta de dos segmentos:
+Consta de dos segmentos:
 Segmento 1:
 El Product Owner presenta el Backlog de producto con mas alta prioridad.
 El equipo selecciona los items del backlog de producto con los que se pueden comprometer.
