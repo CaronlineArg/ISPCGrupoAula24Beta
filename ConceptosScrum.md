@@ -11,7 +11,7 @@ Los tipos de ceremonias a lo largo de un Proyecto:
 ● Sprint Review Meeting; 
 ● Sprint Retrospective Meeting.
 
-- Planificacion de la Iteracion
+# Que es Planificacion de la Iteracion
 La Planificación de la Iteración (sprint planning) es la ceremonia de Scrum diseñada para asegurar que el equipo esté preparado para hacer un buen trabajo en cada iteración.
 El propietario del producto (Product Owner) se asegura de que los asistentes estén preparados para 
 discutir los elementos de trabajo pendiente de producto más importantes y cómo se asignan al objetivo 
@@ -27,6 +27,13 @@ Decidir la estrategia para alcanzar el objetivo del sprint (diseño).
 Las tareas son creadas.
 Se estiman las tareas y el backlog de sprint.
 De manera colaborativa, no solo el Scrum Master.
+
+# Que es Daily Scrum Meeting?
+
+# Que es Review Meeting?
+
+# Que es Retrospective Meeting?
+
 
 # Que son los Artefactos?
 
