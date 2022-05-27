@@ -45,7 +45,14 @@ Y para finalizar la presentación, los stakeholders dan su impresión acerca del
 
 
 # Que es Retrospective Meeting?
+El sprint retrospective meeting (retrospectiva) es el último evento en un Sprint en Scrum. Es una oportunidad para el equipo de inspeccionarse a sí mismo, y crear un plan de mejora que se pondrá en marcha inmediatamente, en el siguiente Sprint.
 
+Este evento se realiza después del Sprint Review, tiene un tiempo máximo de duración de 3 horas para Sprints de 1 mes, por supuesto para Sprints más pequeños su tiempo de duración será proporcionalmente menor.
+
+¿Cuál es el objetivo de la retrospectiva?
+El objetivo de un sprint retrospective meeting es, básicamente, mejorar: mejorar la productividad, mejorar las habilidades del equipo, mejorar la calidad del producto. En resumen, el objetivo es mejorar la aplicación de Scrum.
+
+Otro objetivo es hacer foco en el equipo, analizando cómo trabajamos y cómo nos relacionamos, para buscar posibles mejoras que el mismo equipo aplicará.
 
 # Que son los Artefactos?
 Los Artefactos según la guía Scrum, están diseñados para maximizar la transparencia de la información, que es necesaria para asegurar que todo el equipo tenga el mismo entendimiento del Artefacto.
