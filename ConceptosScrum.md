@@ -31,6 +31,14 @@ De manera colaborativa, no solo el Scrum Master.
 # Que es Daily Scrum Meeting?
 
 # Que es Review Meeting?
+ Se denomina de esa forma a la reunión de revisión del Sprint. Se produce al finalizar el Sprint y 
+tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el 
+Product Owner.
+En primer instancia, el equipo presenta la funcionalidad terminada al Product Owner y demás 
+stakeholders. Luego, los miembros del equipo responden preguntas de los stakeholders en relación a la 
+demostración, y toman nota de los cambios propuestos.
+Y para finalizar la presentación, los stakeholders dan su impresión acerca del producto, cambios deseados y prioridad de esos cambios.
+
 
 # Que es Retrospective Meeting?
 
