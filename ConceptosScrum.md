@@ -45,7 +45,8 @@ Y para finalizar la presentación, los stakeholders dan su impresión acerca del
 
 
 # Que es Retrospective Meeting?
-
+Se produce al finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no ha funcionado
+en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que debe mejorar para la próxima interación
 
 # Que son los Artefactos?
 Los Artefactos según la guía Scrum, están diseñados para maximizar la transparencia de la información, que es necesaria para asegurar que todo el equipo tenga el mismo entendimiento del Artefacto.
