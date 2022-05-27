@@ -1,7 +1,7 @@
 # ISPCGrupoAula24Beta
 Grupo de 10 para realizar actividades de la tecnicatura de Desarrollo de aplicaciones
 
- #Que es el scrum?
+# Que es el scrum?
  Scrum de scrums es una técnica de la metodología ágil ampliada que ofrece una forma de conectar varios equipos que necesitan trabajar juntos para ofrecer soluciones complejas. El Scrum se desarma el proyecto en sprints cortos y entregables(Mientras en Agile se entrega al finalizar la totalidad del proyecto)
 Aunque se considera a menudo un marco de gestión de proyectos ágil, scrum incluye un conjunto de reuniones, herramientas y funciones que, de forma coordinada, ayudan a los equipos a estructurar y gestionar su trabajo.
 
