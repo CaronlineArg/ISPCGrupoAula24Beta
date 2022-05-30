@@ -76,6 +76,27 @@ Las decisiones para optimizar el valor y controlar el riesgo se hacen con base e
 # Que esel Product Backlog?
 
 # Que es Sprint Backlog?
+El Sprint Backlog es un plan realizado por y para los desarrolladores, en el que se detalla, en tiempo real, las tareas que estos planean realizar durante el Sprint para cumplir con el Sprint Goal.
+
+Las características del Sprint Backlog son las siguientes:
+
+Se compone del Sprint Goal (“por qué”), el conjunto de elementos del Product Backlog seleccionados para el Sprint (“qué”) y un plan para entregar el Incremento (“cómo”).
+ 
+
+El Sprint Backlog se realiza en el evento de planeación del Sprint (Sprint Planning).
+ 
+
+Se puede ajustar a lo largo de Sprint si es necesario, a medida que el equipo aprende más sobre la tarea. 
+ 
+
+Debe tener suficientes detalles para que el Scrum Master pueda inspeccionar el progreso del equipo en el Daily Scrum.
+El Sprint Backlog es una herramienta que te permite visualizar el trabajo a realizar durante cada Sprint. Su principal objetivo es mantener la transparencia dentro del desarrollo del proyecto, revisar la evolución del trabajo y hacer un análisis de riesgo para ver qué tareas siguen siendo necesarias y cuáles se pueden eliminar.
+
+Además, un Sprint Backlog te permite realizar el seguimiento del trabajo, al menos, una vez por día en el Daily Scrum. De esta manera, puedes proyectar la probabilidad de lograr el Sprint Goal y tomar decisiones. Y es que con este artefacto Scrum puedes visualizar:
+
+Las tareas que aún no han empezado a desarrollarse.
+Las tareas que ya comenzaron y los responsables.
+Las tareas que están completamente terminadas.
 
 # Que es el Incremento?
 
