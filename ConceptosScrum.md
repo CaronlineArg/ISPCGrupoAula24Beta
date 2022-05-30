@@ -33,6 +33,21 @@ Se estiman las tareas y el backlog de sprint.
 De manera colaborativa, no solo el Scrum Master.
 
 # Que es Daily Scrum Meeting?
+   El propósito del Daily Scrum es inspeccionar el progreso hacia el Objetivo Sprint y adaptar el Sprint
+Backlog según sea necesario, ajustando el próximo trabajo planeado.
+
+   El Daily Scrum es un evento de 15 minutos (máximo) para los desarrolladores del equipo de Scrum. Para
+reducir la complejidad, se lleva a cabo al mismo tiempo y lugar todos los días laborables del Sprint.
+ 
+   El Daily Scrum no es la única vez que los desarrolladores pueden ajustar su plan. Frecuentemente se
+reúnen durante todo el día para debatir de forma más detalladas sobre la adaptación o replanificación
+del resto del trabajo del Sprint. Ademas estos mejoran la comunicación, identifican impedimentos, promueven una
+rápida para la toma de decisiones, y en consecuencia, eliminan la necesidad de otras reuniones. 
+
+   Los desarrolladores pueden seleccionar cualquier estructura y técnicas que deseen, siempre y cuando su
+Scrum diario se centre en el progreso hacia el objetivo de Sprint y produzca un plan accionable para el
+día siguiente de trabajo. Esto crea enfoque y mejora la autogestión.
+
 
 # Que es Review Meeting?
  Se denomina de esa forma a la reunión de revisión del Sprint. Se produce al finalizar el Sprint y 
