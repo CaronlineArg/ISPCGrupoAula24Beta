@@ -99,6 +99,11 @@ Las tareas que ya comenzaron y los responsables.
 Las tareas que están completamente terminadas.
 
 # Que es el Incremento?
+Si Scrum tuviera que ser reducido a una sola cosa, sería a entregar una pieza de software terminado en cada Sprint. 
+Un incremento es el resultado del Sprint, es la suma de todas las tareas, casos de uso, historias de usuario y cualquier elemento que se haya desarrollado durante el Sprint y que será puesto a disposición del usuario final en forma de software, aportando un valor de negocio al producto que se está desarrollando. 
+Al final del Sprint, el nuevo incremento debe estar "terminado", lo que significa que debe estar en condición de ser utilizado y cumplir con la definición de "terminado" del Equipo Scrum. Podríamos decir que en Scrum, la principal medida de progreso es el incremento de producto funcionando.
+La forma de asegurar que un item del product backlog se convierta en un incremento es simple, debe cumplir la definición de «hecho» (Definition of Done o como también se conoce, el DoD) acordada y consensuada por el equipo. De forma resumida la Definition of Done es una lista de criterios acordadas por el equipo Scrum sobre qué debe cumplir un item para darlo por terminado. El DoD debe ser frecuentemente revisado y consensuado por todo el equipo.
+Lo más frecuente es que durante un Sprint se entreguen o liberen varios incrementos. Todos estos se mostrarán en la Sprint Review a los stakeholders (partes interesadas del proyecto) los cuales, nos darán feedback. Éste feedback es muy importante para el equipo ya que ayudará a refinar los próximos incrementos.
 
 # Que son los Roles?
 Los distintos “Roles” dentro del equipo Scrum y las principales funciones que desempeñan dentro de este marco. El equipo Scrum está formado por el Product Owner, el Scrum Master y el equipo de Desarrollo. Este equipo ha de ser multifuncional y autoorganizado. ¿Que significa esto?
