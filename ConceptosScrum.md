@@ -74,6 +74,7 @@ Los Artefactos según la guía Scrum, están diseñados para maximizar la transp
 Las decisiones para optimizar el valor y controlar el riesgo se hacen con base en estos Artefactos, por lo tanto si no son lo suficientemente transparentes se puede incurrir en decisiones erróneas. Los tres principales artefactos o herramientas Scrum son: el Product Backlog, Sprint Backlog y el Incremento.
 
 # Que esel Product Backlog?
+El Product Backlog (o “Lista de Producto” en español) es una lista emergente y ordenada de todo lo que se conoce que es necesario que un producto o servicio cumpla. Siendo una única fuente de requisitos para cualquier cambio. también es dinámico cambia a cada rato identificando el producto para ser competitivo y útil en el mercado del mundo en donde se encuentre.
 
 # Que es Sprint Backlog?
 El Sprint Backlog es un plan realizado por y para los desarrolladores, en el que se detalla, en tiempo real, las tareas que estos planean realizar durante el Sprint para cumplir con el Sprint Goal.
