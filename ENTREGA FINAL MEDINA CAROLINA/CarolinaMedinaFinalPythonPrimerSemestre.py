@@ -30,17 +30,3 @@ print(Clientes)
 
 
 
-
-#etica y deontologia profesional
-#etica: Respuestas de caro para debatir: 
-#1 . sì, se ha cometido un delito. 
-#2. Se infrigio la Ley 25.326 - Protección de datos personales,
-#se hizo exposicion publica de un registro de datos personales sin el consentimiento de los dueños de las mascotas y sin respetar las normas 
-#de seguridad correspondientes. 
-#3. Se puede reclamar ante los tribunales de primera instancia en lo contencioso administrativo federal y ante 
-#la Agencia de Acceso a la Información Pública por haber hecho exposicion de material sensible y personal que podria poner en riesgo mi 
-#integridad fisica o psicologica sin mi consentimiento explicito y legal. 
-#4. El dueño de la veterinaria por tener que garantizar la 
-#integridad y seguridad de los datos de sus clientes y por contratar personal no calificado y, tambien, el programador que es un profesional 
-#que deberia contar con el conocimiento sobre las leyes de proteccion de los datos personales y tiene que tener especial cuidado con la 
-#seguridad y exposicion de los mismo. Ambos son los responsables de exponer la informacion personal de sus clientes y terceros.
