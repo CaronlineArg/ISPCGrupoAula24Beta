@@ -78,14 +78,11 @@ INSERT INTO Historial(Fecha, Perro, Descipcion, Monto) VALUES ("2021-09-10", 5, 
 
 
 -- CONSULTAS--
-
 -- 2)Inserte en la tabla correspondiente un nuevo animal (perro) como paciente y el dueño asociado a ese animal.--
 
-INSERT INTO Perro( Nombre, Fecha_nac, Sexo, DNI_dueno ) VALUES	("Sasha", "2022-08-12", "Hembra", 23546987);
-Select Nombre "Nombre de Perro"
-from Perro;
+INSERT INTO Perro( Nombre_p, Fecha_nac, Sexo, DNI_dueno ) VALUES	("Sasha", "2022-08-12", "Hembra", 23546987);
 
 -- 5)Realice una consulta multitabla que arroje el nombre de todos los perros cuyos dueños se llaman Pedro
-Select nombre_p "Nombre de Perro", nombre "Nombre del dueño"
+Select nombre_p "Nombre del Perro", nombre "Nombre del dueño"
 from perro inner join dueno on dueno.DNI = perro.DNI_dueno
 where nombre = "Pedro";
