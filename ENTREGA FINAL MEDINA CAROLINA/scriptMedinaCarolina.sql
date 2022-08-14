@@ -55,10 +55,10 @@ CREATE TABLE Historial (
 INSERT INTO Perro ( Nombre, Fecha_nac, Sexo, DNI_dueno)
 VALUES ('Rocky', '2020-02-02', 'Masculino', 35332783);
 
-INSERT INTO Dueno( Nombre, Apellido, Telefono, Direcciòn, DNI)
+INSERT INTO Dueno( Nombre, Apellido, Telefono,  Dirección, DNI)
 VALUES ('Carolina', 'Medina', 223666666, 'Siempre viva 666', 35332783);
 
-INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) 
+INSERT INTO Historial (Fecha, Perro,  Descripción, Monto) 
 VALUES ('2020-02-02','caniche','blanco', 2500);
 
 
