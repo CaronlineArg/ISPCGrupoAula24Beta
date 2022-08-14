@@ -1,0 +1,61 @@
+Introducción a la programación:
+Cada estudiante deberá  resolver  UN (1) ejercicio a elección (diferentes entre cada uno de los integrantes) de los 10 ejercicios propuestos por el docente y subir en su propia rama del GitHub.
+
+Escribir el código en Python que permita realizar lo siguiente:
+7)  Crear una tupla en Python con el nombre de “Historial3” la cual contenga los siguientes valores:
+
+          9530, 4120, 4580, 1500, 890,7516,426
+
+Que representa montos de atención en pesos por diferentes servicios/consultas de la mascota “Lennon”. Calcular el promedio de gasto en pesos por atención de “Lennon” mostrándolo en pantalla. Si el promedio es mayor a 4500 indicar con un mensaje “Se ha excedido del gasto promedio para su mascota”.
+respuesta de esta consigna : 
+my_tuple historial3 (9530, 4120, 4580, 1500, 890,7516,426) 
+
+
+Bases de datos: 
+Subir un script SQL que constará, de la creación de la base de datos con sus tablas y los datos necesarios en las mismas, para poder realizar una consulta a elección por estudiante (de los propuestos desde el Nro 3 al 12) y subirlo posteriormente a su propia rama en el GitHub.
+
+PASOS POR CADA ESTUDIANTE: 
+
+A. Crear Base de Datos y Tablas según Modelo Relacional.
+B. Realizar puntos 1 y 2
+C. Elegir algunos de los puntos 3 al 12 y agregarlo al script  (diferentes entre cada uno de los integrantes)
+D. Subir Script .sql con todos los puntos mencionados a su rama personal del GitHub grupal
+
+Dado el siguiente modelo de BD de una peluquería canina, responda las siguiente preguntas:
+
+en respuesta de la actividad:
+create database servicio_domestico
+use servicio_domestico
+
+create table dueno
+pk dni int (10) not null 
+nombre varchar (50) not null 
+apellido varchar (50) not null
+telefono int ( 10) not null 
+domicilio int (50) not null 
+primary key 
+
+create table perro 
+pk id_perro int (10)not null   
+nombre varchar ( 50) not null 
+fecha_nac.int (10) not null 
+sexo varchar (50) not null 
+pk dk-dueno int (10) not null 
+primary key  
+
+
+create table historial 
+pk id_historial int (10) not null 
+fecha varchar (10) not null
+pk perro int (10) not null 
+descripcion  varchar (50) not null 
+monto varchar ( 20) not null 
+primary key 
+
+ 
+ 
+7 Obtener los ingresos percibidos en Julio del 2022
+
+dueno, dueno 2
+perro, perro 2 
+historial, historial 2, historial 3, historial 4, historial 5 
